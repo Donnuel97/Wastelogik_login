@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family:sans-serif;
+    background: linear-gradient(to bottom, #e8f53b, yellow, rgb(184, 184, 34));
+}
+a{
+    width: 45%;
+    height: 45%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
